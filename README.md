@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 **I am Vanessa**
-- I'm an informatics engineering student at Mikroskil University
-- I'm currently learning Web Development in [Dicoding](https://www.dicoding.com/).
-- You can reach me by following my Linkedin account : [Linkedin](https://www.linkedin.com/in/vanessa-leonora).
+- 🌱 I'm an informatics engineering student at Mikroskil University
+- 🔭 I'm currently learning Web Development in [Dicoding](https://www.dicoding.com/).
+- 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/vanessa-leonora).
 
